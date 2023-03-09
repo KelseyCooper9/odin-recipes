@@ -1,0 +1,25 @@
+
+.homepage{
+    color: blue;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+.recipe_1{
+    color: red;
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe_2{
+    color:purple;
+    background-color: grey;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe_3{
+    color:aqua;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
